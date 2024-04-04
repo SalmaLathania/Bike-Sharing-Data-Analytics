@@ -2,7 +2,7 @@
 
 ## Setup environment
 
-pip install numpy matplotlib pandas seaborn babel stramlit
+pip install streamlit
 
 ## Run streamlit app
 
